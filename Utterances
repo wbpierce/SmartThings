@@ -86,6 +86,7 @@ DeviceOperation turn {Device} {Param} mode to {Operator}
 DeviceOperation turn {Operator} {Device} {Param} mode
 DeviceOperation turn {Operator} {Device} to {Param}
 DeviceOperation set the {Device} to {Param} mode
+DeviceOperation to {Operator} the {Device} {Num} degrees
 
 SmartHomeOperation to set {SHCmd} to {SHParam}
 SmartHomeOperation to set the {SHCmd} to {SHParam}
